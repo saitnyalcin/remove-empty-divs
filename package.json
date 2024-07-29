@@ -1,0 +1,21 @@
+{
+  "name": "remove-empty-divs",
+  "version": "1.0.0",
+  "description": "A package to remove empty divs from the current HTML page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "div",
+    "remove",
+    "empty"
+  ],
+  "author": "Sait N Yalcin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saitnyalcin/remove-empty-divs.git"
+  }
+}
