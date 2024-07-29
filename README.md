@@ -1,4 +1,3 @@
-````markdown
 # `remove-empty-divs`
 
 A simple utility function to remove empty `div` elements from the current HTML page. This package is designed for use in web applications where cleaning up empty `div` elements is needed.
@@ -10,7 +9,6 @@ You can install the package via npm if it's published:
 ```bash
 npm install remove-empty-divs
 ```
-````
 
 Or, if you're using it locally for development or testing, you can link it:
 
@@ -115,15 +113,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to modify and extend this README to better fit your project's needs.
 
-```
-
 ### Explanation
 
-- **Installation**: Instructions for both published and local installations.
-- **Usage**: How to use the package in a TypeScript React project and a plain JavaScript project.
-- **API**: Description of the `removeEmptyDivs` function.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: Licensing information.
-
-This README provides a comprehensive guide for users to install, use, and contribute to your package.
-```
+- Installation: Instructions for both published and local installations.
+- Usage: How to use the package in a TypeScript React project and a plain JavaScript project.
+- API: Description of the `removeEmptyDivs` function.
+- Contributing: Guidelines for contributing to the project.
+- License: Licensing information.
