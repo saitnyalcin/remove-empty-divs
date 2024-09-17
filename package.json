@@ -1,6 +1,6 @@
 {
   "name": "remove-empty-divs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to remove empty divs from the current HTML page",
   "main": "src/index.js",
   "scripts": {
